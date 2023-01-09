@@ -1,0 +1,15 @@
+schedule
+hover effects n classes
+remove same fields from mis
+
+///////////////////////////////////
+
+Report Section
+Delete Modal
+fix deleting last element
+fix database sharing among sections
+check n fix form fields, number minimum
+prefilled values like bank, employee
+fix dropdown size
+make everything responsive
+clean the code
